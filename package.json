@@ -1,0 +1,22 @@
+{
+  "name": "graphql-start-guide",
+  "version": "1.0.0",
+  "description": "A project representing the Graph QL start guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NadirBourazza/graphql-start-guide.git"
+  },
+  "author": "Nadir Bourazza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NadirBourazza/graphql-start-guide/issues"
+  },
+  "homepage": "https://github.com/NadirBourazza/graphql-start-guide#readme",
+  "dependencies": {
+    "graphql": "^16.8.1"
+  }
+}
