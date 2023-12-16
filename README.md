@@ -29,7 +29,7 @@ Before getting started, make sure you have the following installed on your machi
    npm start
    ```
 
-4. Open your browser and navigate to `http://localhost:3000` to access the GraphQL playground.
+4. Open your browser and navigate to `http://localhost:4000/graphql` to access the GraphQL playground.
 
 ## Folder Structure
 
